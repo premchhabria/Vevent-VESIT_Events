@@ -134,7 +134,7 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, "static"),]
     
 #g sign in #
-SITE_ID = 2
+SITE_ID = 1
 LOGIN_REDIRECT_URL = '/home'
 
 SOCIALACCOUNT_PROVIDERS = {
