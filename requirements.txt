@@ -4,11 +4,14 @@ cffi==1.14.5
 chardet==4.0.0
 cryptography==3.4.7
 defusedxml==0.7.1
+dj-database-url==0.5.0
 Django==3.1.7
 django-allauth==0.44.0
+django-heroku==0.3.1
 idna==2.10
 oauthlib==3.1.0
 Pillow==8.2.0
+psycopg2==2.8.6
 pycparser==2.20
 PyJWT==2.0.1
 python3-openid==3.2.0
@@ -18,3 +21,4 @@ requests-oauthlib==1.3.0
 slim==0.1
 sqlparse==0.4.1
 urllib3==1.26.4
+whitenoise==5.2.0
